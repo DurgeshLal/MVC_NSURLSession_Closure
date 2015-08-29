@@ -25,10 +25,12 @@ class ViewController: UIViewController {
 
     @IBAction func imageTapped(sender: AnyObject) {
         
-        let url:NSURL = NSURL.URLWithString("http://127.0.0.1:9090//manager/images/tomcat.gif")// replace with your server url.
+        //let url:NSURL = NSURL.URLWithString("http://127.0.0.1:9090//manager/images/tomcat.gif")!// replace with your server url.
+        let url = NSURL(string: "http://127.0.0.1:9090//manager/images/tomcat.gif")
         let requestHandeler:RequestHandler = RequestHandler()
+        
         requestHandeler.fetchDataFromUrl(url, withClosure: { (response) -> Void in
-            self.imgBackground.image = UIImage(data: response as NSData)
+            self.imgBackground.image = UIImage(data: response as! NSData)
         })
         
         

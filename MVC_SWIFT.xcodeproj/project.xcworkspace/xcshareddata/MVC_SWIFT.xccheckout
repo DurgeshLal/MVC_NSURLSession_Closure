@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3FA03858-006D-49D4-92D2-F6ABDBF0206F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MVC_SWIFT</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F7AE685887BDA2EE86C88008EA3F75B3FF6AA45A</key>
+		<string>https://github.com/DurgeshLal/MVC_NSURLSession_Closure.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MVC_SWIFT.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F7AE685887BDA2EE86C88008EA3F75B3FF6AA45A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/DurgeshLal/MVC_NSURLSession_Closure.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F7AE685887BDA2EE86C88008EA3F75B3FF6AA45A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F7AE685887BDA2EE86C88008EA3F75B3FF6AA45A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MVC_NSURLSession_Closure</string>
+		</dict>
+	</array>
+</dict>
+</plist>
